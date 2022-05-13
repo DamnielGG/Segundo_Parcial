@@ -1,0 +1,17 @@
+[
+  {
+    "Titulo": "Cars",
+    
+    "Año": "2020",
+    "Genero": "Animado",
+    "Estudio": "Sony",
+    "Elenco": "Dinoco"
+  },
+  {
+    "Titulo": "Toy Story",
+    "Año": "2016",
+    "Genero": "Animado",
+    "Estudio": "Pixar",
+    "Elenco": "Budy"
+  }
+]
